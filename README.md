@@ -7,4 +7,4 @@ Felipe Souza. 15/12/2020
 
 
 
-![previa](C:\clone-netflix\netflix-clone\img\previa.gif)
+![previa](https://github.com/SoUuzaaa/netflix-clone/blob/main/img/previa.gif?raw=true)
